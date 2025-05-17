@@ -9,7 +9,7 @@ Service Principal direct privileged role applied
 Vibe Coded in 3 hours.  Have fun, extend, but don't expect it to be pretty, elegant, or perfect. Save to an XLSX for filtering. Don't open any issues. I won't look at them.
 
 Contributors and Credits:
-Microsoft Docs
+Microsoft Docs, 
 ChatGPT Pro
 
 License: None. Use at your own risk and to your hearts desire for good and not evil.
