@@ -16,6 +16,8 @@ Contributors and Credits:
 Microsoft Docs, 
 ChatGPT Pro
 
+If GPTs stole your code and didn't give you credit, sorry.
+
 License: None. Use at your own risk and to your hearts desire for good and not evil.
 
 
