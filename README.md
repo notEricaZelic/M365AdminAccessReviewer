@@ -10,6 +10,8 @@ Limitation: If an admin is *BOTH* PIM eligible AND Directly Assigned, it will ou
 
 Vibe Coded in 3 hours.  Have fun, extend, but don't expect it to be pretty, elegant, or perfect. Save to an XLSX for filtering. Don't open any issues. I won't look at them.
 
+Requires Microsoft Graph PowerShell.  Connect based on your environment type.  Edit output directory.  I copy and paste the code into a PowerShell prompt after connecting to Microsoft Graph PowerShell.
+
 Contributors and Credits:
 Microsoft Docs, 
 ChatGPT Pro
